@@ -1,0 +1,26 @@
+---
+layout: post
+date: 2013-09-14 12:50:50
+person: bkam
+goal: pocket
+tags: auto tech ifttt
+category: goals
+---
+
+<h3 class="graph-align goal-title">
+    <a href="https://www.beeminder.com/bkam/goals/">{{ page.person }}</a>
+    ::
+    <a href="https://www.beeminder.com/bkam/goals/goals/pocket">{{ page.goal }}</a>
+</h3>
+
+<br />
+<span class="muted graph-align goal-text goal-tags">
+        {% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}
+</span>
+
+<br />
+<div class="graph-align goal-text goal-description">
+      https://ifttt.com/recipes/108605
+</div>
+
+[![{{ page.goal }}](https://www.beeminder.com/bkam/goals/goals/pocket/graph)](https://www.beeminder.com/bkam/goals/goals/pocket)
