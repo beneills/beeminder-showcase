@@ -10,7 +10,7 @@ category: goals
 <h3 class="graph-align goal-title">
     <a href="https://www.beeminder.com/bkam/goals/">{{ page.person }}</a>
     ::
-    <a href="https://www.beeminder.com/bkam/goals/goals/disk">{{ page.goal }}</a>
+    <a href="https://www.beeminder.com/bkam/goals/disk">{{ page.goal }}</a>
 </h3>
 
 <br />
@@ -20,7 +20,7 @@ category: goals
 
 <br />
 <div class="graph-align goal-text goal-description">
-      http://msls.net/2013/07/31/beeminder/
+      <a>http://msls.net/2013/07/31/beeminder/</a>
 </div>
 
-[![{{ page.goal }}](https://www.beeminder.com/bkam/goals/goals/disk/graph)](https://www.beeminder.com/bkam/goals/goals/disk)
+[![{{ page.goal }}](https://www.beeminder.com/bkam/goals/disk/graph)](https://www.beeminder.com/bkam/goals/disk)

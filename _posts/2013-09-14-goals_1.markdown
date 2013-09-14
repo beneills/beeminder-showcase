@@ -10,7 +10,7 @@ category: goals
 <h3 class="graph-align goal-title">
     <a href="https://www.beeminder.com/bkam/goals/">{{ page.person }}</a>
     ::
-    <a href="https://www.beeminder.com/bkam/goals/goals/pocket">{{ page.goal }}</a>
+    <a href="https://www.beeminder.com/bkam/goals/pocket">{{ page.goal }}</a>
 </h3>
 
 <br />
@@ -20,7 +20,7 @@ category: goals
 
 <br />
 <div class="graph-align goal-text goal-description">
-      https://ifttt.com/recipes/108605
+      <a>https://ifttt.com/recipes/108605</a>
 </div>
 
-[![{{ page.goal }}](https://www.beeminder.com/bkam/goals/goals/pocket/graph)](https://www.beeminder.com/bkam/goals/goals/pocket)
+[![{{ page.goal }}](https://www.beeminder.com/bkam/goals/pocket/graph)](https://www.beeminder.com/bkam/goals/pocket)
