@@ -20,7 +20,9 @@ category: goals
 
 <br />
 <div class="graph-align goal-text goal-description">
-      <a>http://msls.net/2013/07/31/beeminder/</a>
+
+      [http://msls.net/2013/07/31/beeminder/](http://msls.net/2013/07/31/beeminder/)
+
 </div>
 
 [![{{ page.goal }}](https://www.beeminder.com/bkam/goals/disk/graph)](https://www.beeminder.com/bkam/goals/disk)
