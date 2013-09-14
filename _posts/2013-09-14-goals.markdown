@@ -1,0 +1,26 @@
+---
+layout: post
+date: 2013-09-14 12:46:31
+person: bkam
+goal: disk
+tags: auto tech
+category: goals
+---
+
+<h3 class="graph-align goal-title">
+    <a href="https://www.beeminder.com/bkam/goals/">{{ page.person }}</a>
+    ::
+    <a href="https://www.beeminder.com/bkam/goals/goals/disk">{{ page.goal }}</a>
+</h3>
+
+<br />
+<span class="muted graph-align goal-text goal-tags">
+        {% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}
+</span>
+
+<br />
+<div class="graph-align goal-text goal-description">
+      http://msls.net/2013/07/31/beeminder/
+</div>
+
+[![{{ page.goal }}](https://www.beeminder.com/bkam/goals/goals/disk/graph)](https://www.beeminder.com/bkam/goals/goals/disk)
