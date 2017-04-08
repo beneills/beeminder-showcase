@@ -21,7 +21,7 @@ category: goals
 <br />
 <div class="graph-align goal-text goal-description">
 
-	[https://ifttt.com/recipes/108605](https://ifttt.com/recipes/108605)
+	<a href="https://ifttt.com/recipes/108605">https://ifttt.com/recipes/108605</a>
 
 </div>
 

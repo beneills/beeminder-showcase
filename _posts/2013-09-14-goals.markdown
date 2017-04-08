@@ -21,7 +21,7 @@ category: goals
 <br />
 <div class="graph-align goal-text goal-description">
 
-      [http://msls.net/2013/07/31/beeminder/](http://msls.net/2013/07/31/beeminder/)
+      <a href="http://msls.net/2013/07/31/beeminder/">http://msls.net/2013/07/31/beeminder/</a>
 
 </div>
 
